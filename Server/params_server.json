@@ -1,0 +1,7 @@
+{
+  "port": 1235,
+  "server_ip": "localhost",
+  "main_interface": "Ethernet",
+  "public_key_modulus": 541,
+  "public_key_base": 10
+ }
